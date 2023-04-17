@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 30 02:05:39 2022
 
-@author: bbean
+@author: wei wang
 """
 import cv2
 import os
