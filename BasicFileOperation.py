@@ -55,14 +55,14 @@ def get_tif_info(tif_path):
         pcs.ImportFromWkt(dataset.GetProjection())
         gcs = pcs.CloneGeogCS()
         extend = dataset.GetGeoTransform()
-        # im_width = dataset.RasterXSize #栅格矩阵的列数
-        # im_height = dataset.RasterYSize #栅格矩阵的行数
+        # im_width = dataset.RasterXSize 
+        # im_height = dataset.RasterYSize 
         shape = (dataset.RasterYSize, dataset.RasterXSize)
     else:
         raise "Unsupported file format"
 
     img = dataset.GetRasterBand(1).ReadAsArray()  # (height, width)
-    # img(ndarray), gdal数据集、地理空间坐标系、投影坐标系、栅格影像大小
+    
     return img, dataset, gcs, pcs, extend, shape
 
 def longlat_to_xy(gcs, pcs, lon, lat):
