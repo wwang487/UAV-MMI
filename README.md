@@ -32,3 +32,6 @@ And the txt file is suggested to save into the same folder as step (3).
 
 ***Step (5)*** - Please buffer buildings and trees, e.g., 5 m, and export the buffered blocked map as a tif file, the suggested pixel resolution is <= 0.1 m/pixel.
 
+### Toolkit II -- Image Data Processing
+
+### Toolkit III -- MMI Stream Habitat Health Assessment
