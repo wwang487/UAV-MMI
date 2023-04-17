@@ -6,7 +6,7 @@ Cost-effective Drone Monitoring and Evaluating Toolkits for Stream Habitat Healt
 
 ## Data preparation
 
-### Toolkit I -- Flight design
+### Toolkit I -- Flight Design
 
 ***Step (1)*** - Please download an aerial image for your study site, and this orthophoto needs to be orthogonized and georeferenced.
 
@@ -33,5 +33,11 @@ And the txt file is suggested to save into the same folder as step (3).
 ***Step (5)*** - Please buffer buildings and trees, e.g., 5 m, and export the buffered blocked map as a tif file, the suggested pixel resolution is <= 0.1 m/pixel.
 
 ### Toolkit II -- Image Data Processing
+
+***Step (1)*** Put the drone collection image for each flight mission into one folder. 
+
+***Step (2)*** Organize total station measurements into a txt file, five columns of this txt file should be:
+
+*OBJECTID, X,  Y, Z, Description*
 
 ### Toolkit III -- MMI Stream Habitat Health Assessment
