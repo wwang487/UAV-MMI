@@ -18,4 +18,10 @@ Low-elev flight route:
 
 Please delineate flight boundary, water surface boundary, trees, and buildings from aerial image. 
 
-Step (3) Save the nodes of flight boundary and water surface boundary into a txt file, 
+Step (3) Save the nodes of flight boundary and water surface boundary into a txt file, the format of txt file should be:
+
+OBJECTID, X,  Y
+
+---,     --,  --
+
+---,     --,  --
