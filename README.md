@@ -18,10 +18,10 @@ Low-elev flight route:
 
 Please delineate flight boundary, water surface boundary, trees, and buildings from aerial image. 
 
-Step (3) Save the nodes of flight boundary and water surface boundary into a txt file, the format of txt file should be:
+Step (3) - Please convert all delineations into a projected coordinate system, e.g., UTM. Save the nodes of flight boundary and water surface boundary into a txt file, three columns of these txt files should be:
 
 OBJECTID, X,  Y
 
----,     --,  --
+A sample txt file called Boundary_Point.txt is in the folder ToolkitIInputs/txt/
 
----,     --,  --
+Step (4) - Please buffer buildings and trees, e.g., 5 m, 
