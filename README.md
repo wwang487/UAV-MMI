@@ -22,6 +22,14 @@ Step (3) - Please convert all delineations into a projected coordinate system, e
 
 OBJECTID, X,  Y
 
-A sample txt file called Boundary_Point.txt is in the folder ToolkitIInputs/txt/
+A sample txt file called Boundary_Point.txt is in the folder ToolkitIInputs/txt/. All of this txt files are suggested to put into one folder.
 
-Step (4) - Please buffer buildings and trees, e.g., 5 m, 
+Step (4) - Please select a home point from orthophoto, this home points should follow two criteria: 1. Stay away (at least 2 m) from metals; 2) Has clear GPS signal, lands under dense canopy or roofs should not be selected. This home point should also be saved into a txt file, three columns of these txt files should be:
+
+OBJECTID, X,  Y
+
+And the txt file is suggested to save into the same folder as step (3).
+
+Step (5) - Please buffer buildings and trees, e.g., 5 m, and export the buffered blocked map as a tif file, the suggested pixel resolution is <= 0.1 m/pixel.
+
+Step (5) - Following 
