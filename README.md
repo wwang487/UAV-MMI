@@ -41,3 +41,9 @@ And the txt file is suggested to save into the same folder as step (3).
 *OBJECTID, X,  Y, Z, Description*
 
 ### Toolkit III -- MMI Stream Habitat Health Assessment
+
+***Step (2)*** Delineate the polylines of stream bank, eroded zones, vegetated buffer, and tall vegetation from orthophotos. If there are in-stream islands, also delineate polylines of in-stream islands. Save the vertices of these polylines as new point features, and save the coordinates of each point feature into one txt file. If all processes are done in ArcMap, the txt file should have five columns.  
+
+*FID, Id, ORIG_FID, X, Y*
+
+***Step (2)*** Organize total station measurements into a txt file, five columns of this txt file should be:
