@@ -2,7 +2,7 @@
 """
 Created on Sat Oct  1 02:29:47 2022
 
-@author: bbean
+@author: wei wang
 """
 
 import math
