@@ -18,6 +18,10 @@ Low-elev flight route:
 
 Please delineate flight boundary, water surface boundary, trees, and buildings from aerial image. 
 
+An example delineation looks like this:
+
+![image](https://github.com/wwang487/UAV-MMI/Examples/Aerial_Img_Example.jpg)
+
 ***Step (3)*** - Please convert all delineations into a projected coordinate system, e.g., UTM. Save the nodes of flight boundary and water surface boundary into a txt file, three columns of these txt files should be:
 
 *OBJECTID, X,  Y*
