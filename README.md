@@ -28,7 +28,7 @@ An example delineation looks like this:
 
 An example boundary point txt file looks like this:
 
-
+![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_0.png)
 
 A sample txt file called Boundary_Point.txt is saved in the folder ToolkitIInputs/txt/. All of this txt files are suggested to put into one folder.
 
@@ -58,7 +58,7 @@ And the txt file is suggested to save into the same folder as step (3).
 *FID, Id, ORIG_FID, X, Y*
 An example vertices coordinate txt file looks like this:
 
-
+![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_1.png)
 
 ### In-situ Validation
 
