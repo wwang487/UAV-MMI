@@ -75,6 +75,10 @@ An example vertices coordinate txt file looks like this:
 
 ***Step (1)*** Organize the transect-based measurements into a txt file. The txt file should be formed like the follows:
 
+*DIST,DEPTH,WIDTH,BUFFER_L,BUFFER_R,EROSION_L,EROSION_R,VEG_COVER_L,VEG_COVER_R,WOOD,BANKTOP*
+
+DIST is the distance from the upstream of a study site, DEPTH is the average depth at each transect, WIDTH is the stream width at each transect.
+
 ## Toolkit Usage
 
 Once required data is prepared, introduction and implementation of the codes can be found in Notebooks folder. ToolkitI_Example.ipynb shows the steps for all processing in toolkit I for flight route design, ToolkitII_Example.ipynb shows the steps for all processing in toolkit II for drone image processing, ToolkitIII_Example.ipynb shows the steps for all processing in toolkit III, including stream habitat parameter computation, MMI classification, validation with ground true values, and visualization.
@@ -89,6 +93,6 @@ UAV-MMI is released under the [MIT License](https://opensource.org/license/mit/)
 
 ## Authors
 
-Wei Wang - *researcher & developer*
+Wei Wang - *Researcher & Developer*
 
 Chin H. Wu - *Researcher*
