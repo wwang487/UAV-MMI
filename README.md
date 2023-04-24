@@ -26,6 +26,9 @@ An example delineation looks like this:
 
 *OBJECTID, X,  Y*
 
+An example boundary point txt file looks like this:
+![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_0.png)
+
 A sample txt file called Boundary_Point.txt is in the folder ToolkitIInputs/txt/. All of this txt files are suggested to put into one folder.
 
 ***Step (4)*** - Please select a home point from orthophoto, this home points should follow two criteria: 1. Stay away (at least 2 m) from metals; 2) Has clear GPS signal, lands under dense canopy or roofs should not be selected. This home point should also be saved into a txt file, three columns of these txt files should be:
@@ -52,6 +55,8 @@ And the txt file is suggested to save into the same folder as step (3).
 ***Step (2)*** Delineate the polylines of stream bank, eroded zones, vegetated buffer, and tall vegetation from orthophotos. If there are in-stream islands, also delineate polylines of in-stream islands. Save the vertices of these polylines as new point features, and save the coordinates of each point feature into one txt file. If all processes are done in ArcMap, the txt file should have five columns.  
 
 *FID, Id, ORIG_FID, X, Y*
+An example vertices coordinate txt file looks like this:
+![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_1.png)
 
 ### In-situ Validation
 
