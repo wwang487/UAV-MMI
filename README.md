@@ -13,6 +13,8 @@ Cost-effective Drone Monitoring and Evaluating Toolkits for Stream Habitat Healt
 pip install requirements.txt
 ```
 
+The code was tested in Python 3.9, other version of Python should be supported, but please install the packages compatible with your Python version.
+
 ## Data preparation
 
 ### Toolkit I -- Flight Design
