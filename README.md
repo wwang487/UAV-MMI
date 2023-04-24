@@ -58,7 +58,7 @@ And the txt file is suggested to save into the same folder as step (3).
 *FID, Id, ORIG_FID, X, Y*
 An example vertices coordinate txt file looks like this:
 
-![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_1.png)
+
 
 ### In-situ Validation
 
