@@ -30,7 +30,7 @@ An example boundary point txt file looks like this:
 
 ![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_0.png)
 
-A sample txt file called Boundary_Point.txt is in the folder ToolkitIInputs/txt/. All of this txt files are suggested to put into one folder.
+A sample txt file called Boundary_Point.txt is saved in the folder ToolkitIInputs/txt/. All of this txt files are suggested to put into one folder.
 
 ***Step (4)*** - Please select a home point from orthophoto, this home points should follow two criteria: 1. Stay away (at least 2 m) from metals; 2) Has clear GPS signal, lands under dense canopy or roofs should not be selected. This home point should also be saved into a txt file, three columns of these txt files should be:
 
