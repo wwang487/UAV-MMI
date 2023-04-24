@@ -86,3 +86,9 @@ Feel free to open an issue for bugs and feature requests.
 ## License
 
 UAV-MMI is released under the [MIT License](https://opensource.org/license/mit/).
+
+## Authors
+
+Wei Wang - *researcher & developer*
+
+Chin H. Wu - *Researcher*
