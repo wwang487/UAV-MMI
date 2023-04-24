@@ -64,3 +64,6 @@ An example vertices coordinate txt file looks like this:
 
 ***Step (1)*** Organize the transect-based measurements into a txt file. The txt file should be formed like the follows:
 
+## Toolkit Processing
+
+***Step (1)*** Please follow toolkitI-examples.ipynb in the Notebooks folder to design, visualize, and export flight routes.
