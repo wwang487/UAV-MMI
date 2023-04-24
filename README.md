@@ -5,11 +5,11 @@ Cost-effective Drone Monitoring and Evaluating Toolkits for Stream Habitat Healt
 
 ## Installation
 
-git clone https://github.com/wwang487/UAV-MMI.git
+`git clone https://github.com/wwang487/UAV-MMI.git`
 
 ## Dependencies
 
-pip install requirements.txt
+`pip install requirements.txt`
 
 ## Data preparation
 
