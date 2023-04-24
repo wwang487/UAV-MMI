@@ -77,7 +77,7 @@ An example vertices coordinate txt file looks like this:
 
 ## Toolkit Usage
 
-Once required data is prepared, introduction and implementation of the codes can be found in Notebooks folder. toolkitI-examples.ipynb shows the steps for all processing in toolkit I for flight route design, toolkitII-examples.ipynb shows the steps for all processing in toolkit II for drone image processing, toolkitIII-examples.ipynb shows the steps for all processing in toolkit III, including stream habitat parameter computation, MMI classification, validation with ground true values, and visualization.
+Once required data is prepared, introduction and implementation of the codes can be found in Notebooks folder. ToolkitI_Example.ipynb shows the steps for all processing in toolkit I for flight route design, ToolkitII_Example.ipynb shows the steps for all processing in toolkit II for drone image processing, ToolkitIII_Example.ipynb shows the steps for all processing in toolkit III, including stream habitat parameter computation, MMI classification, validation with ground true values, and visualization.
 
 ## Contributing
 
