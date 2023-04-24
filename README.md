@@ -79,6 +79,10 @@ An example vertices coordinate txt file looks like this:
 
 ***Step (1)*** Please follow toolkitI-examples.ipynb in the Notebooks folder to design, visualize, and export flight routes.
 
-### Contributing
+## Contributing
 
 Feel free to open an issue for bugs and feature requests.
+
+## License
+
+UAV-MMI is released under the [MIT License](https://opensource.org/license/mit/).
