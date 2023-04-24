@@ -68,7 +68,7 @@ And the txt file is suggested to save into the same folder as step (3).
 
 *ObjectID, ORIG_FID, X, Y*
 
-An example polyline delineation of left and right stream banks look like this:
+An example polyline delineation of left and right stream banks looks like this:
 
 ![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_Delineation.png)
 
