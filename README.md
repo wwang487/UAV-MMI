@@ -75,13 +75,9 @@ An example vertices coordinate txt file looks like this:
 
 ***Step (1)*** Organize the transect-based measurements into a txt file. The txt file should be formed like the follows:
 
-## Toolkit Processing
+## Toolkit Usage
 
-***Step (1)*** Please follow toolkitI-examples.ipynb in the Notebooks folder to design, visualize, and export flight routes. 
-
-***Step (2)*** Please follow toolkitII-examples.ipynb in the Notebooks folder to get processing quality categories for each structure from motion (SfM) steps, also, check the accuracy of elevation results, and visualize the errors.
-
-***Step (3)*** Please follow toolkitIII-examples.ipynb in the Notebooks folder to compute stream habitat parameters, including stream width, vegetation buffer width, erosion zone width, tall vegetation width, etc. then compute MMI values, classify stream habitat health condition for each metric along the study site, compare with ground true measurements, and visualize.
+Once required data is prepared, introduction and implementation of the codes can be found in Notebooks folder. toolkitI-examples.ipynb shows the steps for all processing in toolkit I for flight route design, toolkitII-examples.ipynb shows the steps for all processing in toolkit II for drone image processing, toolkitIII-examples.ipynb shows the steps for all processing in toolkit III, including stream habitat parameter computation, MMI classification, validation with ground true values, and visualization.
 
 ## Contributing
 
