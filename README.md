@@ -53,9 +53,9 @@ And the txt file is suggested to save into the same folder as step (3).
 
 ***Step (1)*** Project the orthophoto and terrain map (DEM) into a projected coordinate system.
 
-***Step (2)*** Delineate the polylines of stream bank, eroded zones, vegetated buffer, and tall vegetation from orthophotos. If there are in-stream islands, also delineate polylines of in-stream islands. Save the vertices of these polylines as new point features, and save the coordinates of each point feature into one txt file. If all processes are done in ArcMap, the txt file should have five columns.  
+***Step (2)*** Delineate the polylines of stream bank, eroded zones, vegetated buffer, and tall vegetation from orthophotos. If there are in-stream islands, also delineate polylines of in-stream islands. Save the vertices of these polylines as new point features, and save the coordinates of each point feature into one txt file. If all processes are done in ArcMap, the txt file should have four columns.  
 
-*FID, Id, ORIG_FID, X, Y*
+*ObjectID, ORIG_FID, X, Y*
 An example vertices coordinate txt file looks like this:
 
 ![image](https://github.com/wwang487/UAV-MMI/blob/main/Examples/Example_txt_1.png)
